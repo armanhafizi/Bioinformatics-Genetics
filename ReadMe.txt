@@ -1,0 +1,1 @@
+This folder includes answers to genetic questions for the course of Bioinformatics on Rosalind website. Feel free to contact me for more information.
